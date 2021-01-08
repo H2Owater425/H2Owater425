@@ -6,7 +6,8 @@
 <p>Unfortunately, I'm very poor at coding... 😥<br/>
 However, I'll keep grow my skills! 😀</p>
 
-![H2Owater425's github stats](https://github-readme-stats.vercel.app/api?username=H2Owater425&show_icons=true)
+![H2Owater425's github stats](https://github-readme-stats.vercel.app/api?username=H2Owater425&theme=tokyonight&show_icons=true)
+![H2Owater425's github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h2owater425&theme=tokyonight&langs_count=3)
 
 ### Contacts 📫
 * Github Repo Issue
