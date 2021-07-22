@@ -13,4 +13,4 @@ However, I'll keep grow my skills! 😀</p>
 * Github Repo Issue
 * Twitter: _@H2Owater425_
 * Discord: _물워터#7826_
-* Email: _h2o@h2owr.xyz_, _kkm@h2owr.xyz_
+* Email: _h2o@h2owr.xyz_, _kim@kangm.in_
