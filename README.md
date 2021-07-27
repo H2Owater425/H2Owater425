@@ -10,7 +10,7 @@ However, I'll keep grow my skills! 😀</p>
 ![H2Owater425's github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h2owater425&theme=tokyonight&langs_count=3)
 
 ### Contacts 📫
-* Github Repo Issue
-* Twitter: _@H2Owater425_
+* Github Repository Issue
 * Discord: _물워터#7826_
+* Twitter: _@H2Owater425_
 * Email: _h2o@h2owr.xyz_, _kim@kangm.in_
