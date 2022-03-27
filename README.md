@@ -4,7 +4,7 @@
 <p>Let me introduce myself, shall I?</p>
 <p>I'm H2Owater425, also known as KKM which is my initial name.</p>
 <p>Currently, I'm a freshman in the department of web programming at Korea Digital Media High School. 👨‍🎓👨‍💻</p>
-<p>But for you guys who have visited, I both have bad and good news. 😮‍💨</p>
+<p>But for you guys who have visited, I have both bad and good news. 😮‍💨</p>
 <p>The bad news is that I'm very <s>suck</s> poor at programming, and the good news is the fact that I'll keep growing my skills!</p>
 
 ![H2Owater425's github stats](https://github-readme-stats.vercel.app/api?username=H2Owater425&theme=tokyonight&show_icons=true)
