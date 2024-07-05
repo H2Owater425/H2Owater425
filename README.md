@@ -1,14 +1,15 @@
 # H2Owater425 💻🌊
 
 ### 👋 Hello, stranger!
-<p>Let me introduce myself, shall I?</p>
-<p>I'm H2Owater425, also known as KKM which is my initial name.</p>
-<p>Currently, I'm a sophomore in the department of web programming at Korea Digital Media High School. 👨‍🎓👨‍💻</p>
-<p>But for you guys who have visited, I have both bad and good news. 😮‍💨</p>
-<p>The bad news is that I'm very <s>suck</s> poor at programming, and the good news is the fact that I'll keep growing my skills!</p>
 
-![H2Owater425's github stats](https://github-readme-stats.vercel.app/api?username=H2Owater425&theme=tokyonight&show_icons=true)
-![H2Owater425's github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h2owater425&theme=tokyonight&langs_count=3)
+<p>I'm H2Owater425, also known as KKM, which are my initials.</p>
+<p>Currently, I'm a senior in the Web Programming Department at Korea Digital Media High School. 👨‍🎓👨‍💻</p>
+<p>My programming skills aren't the best, but I'm a very passionate programmer!</p>
+<p>Perhaps I could show you something as time goes on...</p>
+<p>Anyway, have a nice day! ☀️</p>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=H2Owater425&theme=tokyonight&show_icons=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h2owater425&theme=tokyonight&langs_count=3)
 
 ### Contacts 📫
 * Github Repository Issue
