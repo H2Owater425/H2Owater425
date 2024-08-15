@@ -15,4 +15,4 @@
 * Github Repository Issue
 * Discord: _물워터#7826_
 * Twitter: _@H2Owater425_
-* Email: _h2o@h2owr.xyz_, _me@kangmin.kim_
+* Email: _h2o@dhmo.kr_, _me@kangmin.kim_
