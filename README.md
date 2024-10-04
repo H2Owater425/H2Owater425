@@ -13,6 +13,6 @@
 
 ### Contacts 📫
 * Github Repository Issue
-* Discord: _물워터#7826_
+* Discord: _h2owater425_
 * Twitter: _@H2Owater425_
 * Email: _h2o@dhmo.kr_, _me@kangmin.kim_
