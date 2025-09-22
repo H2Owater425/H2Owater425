@@ -9,7 +9,7 @@
 <p>Anyway, have a nice day! ☀️</p>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=H2Owater425&theme=tokyonight&show_icons=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h2owater425&theme=tokyonight&langs_count=3)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h2owater425&theme=tokyonight&langs_count=3&exclude_repo=hangeul-meorimal)
 
 ### Contacts 📫
 * Github Repository Issue
