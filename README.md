@@ -3,7 +3,7 @@
 ### 👋 Hello, stranger!
 
 <p>I'm H2Owater425, also known as KKM, which are my initials.</p>
-<p>Currently, I'm a freshman in the Department of Software Convergence at Kyung Hee University. 👨‍🎓👨‍💻</p>
+<p>Currently, I'm a sophomore in the Department of Software Convergence at Kyung Hee University. 👨‍🎓👨‍💻</p>
 <p>My programming skills aren't the best, but I'm a very passionate programmer!</p>
 <p>Perhaps I could show you something as time goes on...</p>
 <p>Anyway, have a nice day! ☀️</p>
